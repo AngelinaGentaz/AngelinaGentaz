@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelinaGentaz
-- 👀 I’m interested in economics, data science, epidemiology and much more
-- 🌱 I’m currently learning political science, economics & mathematics
+- 👀 I’m interested in economics (game theory stuff especially), data science, epidemiology and much more
+- 🌱 I’m currently learning political science, economics, mathematics & physics
 - 💞️ I’m looking to collaborate on these topics above
 - 📫 How to reach me --> LinkedIn : Angélina Gentaz
 

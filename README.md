@@ -1,6 +1,6 @@
-Hi! I’m more a policymaker (AI policy) than a programmer but I love to dive into technical stuff from time to time and try to do different programming projects. My main project for the moment is working on the OECD AI Index, a project that aims to measure countries’ performance and progress towards trustworthy AI. I’m also a game theory lover and I’m keen to know more about computational social choice and also ML in general.
+Hi! My main project for the moment is working on the OECD AI Index, a project that aims to measure countries’ performance and progress towards trustworthy AI. I’m also a game theory lover and I’m keen to know more about computational social choice and also ML in general. Recently, I also started a quick personal project to explore how AI performance and capabilities trends can be indexed into current economics models of AI automation.
 
-I mostly code in Python and can use Git.
+I mostly code in Python.
 
 📫 How to reach me --> LinkedIn: Angélina Gentaz
 
